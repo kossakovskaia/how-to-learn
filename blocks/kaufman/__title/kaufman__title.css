@@ -1,7 +1,7 @@
 .kaufman__title {
   margin: 0 auto 20px;
+  position: relative;
   text-align: center;
   width: 60%;
-  position: relative;
   z-index: 1;
 }

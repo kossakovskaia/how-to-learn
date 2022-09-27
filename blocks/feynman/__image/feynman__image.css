@@ -1,7 +1,7 @@
 .feynman__image {
-  width: 867px;
-  height: 637px;
-  position: absolute;
   bottom: 0;
+  height: 637px;
   left: 75px;
+  position: absolute;
+  width: 867px;
 }
