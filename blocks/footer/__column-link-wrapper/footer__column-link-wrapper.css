@@ -1,0 +1,7 @@
+.footer__column-link-wrapper {
+  margin-bottom: 10px;
+}
+
+.footer__column-link-wrapper:last-of-type {
+  margin-bottom: 0;
+}
