@@ -4,5 +4,6 @@
   font-weight: normal;
   line-height: 1.2;
   margin: 0;
-  width: 175px;
+  max-width: 175px;
+  width: 100%;
 }
